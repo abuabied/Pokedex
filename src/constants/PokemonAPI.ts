@@ -1,0 +1,1 @@
+export const pokemonAPI: string = "https://pokeapi.co/api/v2/pokemon";
